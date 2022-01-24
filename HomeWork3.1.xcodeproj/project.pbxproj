@@ -11,6 +11,8 @@
 		A5F8AD4D2799CB8D000B4711 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F8AD4C2799CB8D000B4711 /* ContentView.swift */; };
 		A5F8AD4F2799CB8F000B4711 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5F8AD4E2799CB8F000B4711 /* Assets.xcassets */; };
 		A5F8AD522799CB8F000B4711 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5F8AD512799CB8F000B4711 /* Preview Assets.xcassets */; };
+		A5F8AD592799D43D000B4711 /* Cirkle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F8AD582799D43D000B4711 /* Cirkle.swift */; };
+		A5F8AD5D279F2151000B4711 /* ChangeColorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F8AD5C279F2151000B4711 /* ChangeColorButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		A5F8AD4C2799CB8D000B4711 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A5F8AD4E2799CB8F000B4711 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5F8AD512799CB8F000B4711 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A5F8AD582799D43D000B4711 /* Cirkle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cirkle.swift; sourceTree = "<group>"; };
+		A5F8AD5C279F2151000B4711 /* ChangeColorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeColorButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				A5F8AD4A2799CB8D000B4711 /* HomeWork3_1App.swift */,
 				A5F8AD4C2799CB8D000B4711 /* ContentView.swift */,
+				A5F8AD5C279F2151000B4711 /* ChangeColorButton.swift */,
+				A5F8AD582799D43D000B4711 /* Cirkle.swift */,
 				A5F8AD4E2799CB8F000B4711 /* Assets.xcassets */,
 				A5F8AD502799CB8F000B4711 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				A5F8AD4D2799CB8D000B4711 /* ContentView.swift in Sources */,
 				A5F8AD4B2799CB8D000B4711 /* HomeWork3_1App.swift in Sources */,
+				A5F8AD592799D43D000B4711 /* Cirkle.swift in Sources */,
+				A5F8AD5D279F2151000B4711 /* ChangeColorButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
